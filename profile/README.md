@@ -12,4 +12,4 @@ The power of MDN Web Docs lies in its vast community of active readers and contr
 You can be part of MDN Web Docs, whether it be through ✍🏽 content contributions, ⚙️ engineering, or ↔️ translation work. The MDN Web Docs project welcomes contributions from everyone who shares our goals and wants to contribute constructively and respectfully within our community. 🧘‍♂️
 
 ### ✉️ Get in touch
-You can communicate with the MDN Web Docs team and community through our Matrix channel, forums on Discourse, and discussions on GitHub.
+You can communicate with the MDN Web Docs team and community through our [Matrix channel](https://wiki.mozilla.org/Matrix), forums on [Discourse](https://discourse.mozilla.org/c/mdn/236), and discussions on [GitHub](https://github.com/mdn/mdn-community/discussions).
