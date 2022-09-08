@@ -4,6 +4,9 @@
 
 MDN Web Docs is an open-source, collaborative project that documents web platform technologies, including CSS, HTML, JavaScript, and Web APIs. We also provide extensive 🧑‍🎓 learning resources for beginning developers and students.
 
+
+> **Note:** By participating in and contributing to our projects and discussions, you acknowledge that you have read and agree to the [Mozilla community participation guidelines](https://github.com/mdn/mdn-community/blob/main/CODE_OF_CONDUCT.md)
+
 ### 🙌 MDN's mission
 
 MDN's mission is to provide a blueprint for a better internet and empower a new generation of developers and content creators to build it.
