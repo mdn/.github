@@ -1,4 +1,4 @@
-# 👋 Welcome, Bienvenida, 欢迎, Bienvenue, いらっしゃいませ, Receber, Добро пожаловать, 환영합니다, მოგესალმებით, مرحباً, Ласкаво просимо
+# 👋 Welcome, Bienvenida, 欢迎, Bienvenue, いらっしゃいませ, Receber, Добро пожаловать, 환영합니다, მოგესალმებით, مرحباً, Ласкаво просимо, Bem-vindo
 
 ![github-profile](https://user-images.githubusercontent.com/10350960/166113119-629295f6-c282-42c9-9379-af2de5ad4338.png)
 
