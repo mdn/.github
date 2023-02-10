@@ -2,7 +2,7 @@
 
 ![github-profile](https://user-images.githubusercontent.com/10350960/166113119-629295f6-c282-42c9-9379-af2de5ad4338.png)
 
-MDN Web Docs is an open-source, collaborative project that documents web platform technologies, including CSS, HTML, JavaScript, and Web APIs. We also provide extensive 🧑‍🎓 learning resources for beginning developers and students.
+[MDN Web Docs](https://developer.mozilla.org/) is an open-source, collaborative project that documents web platform technologies, including CSS, HTML, JavaScript, and Web APIs. We also provide extensive 🧑‍🎓 learning resources for beginning developers and students.
 
 
 > **Note:** By participating in and contributing to our projects and discussions, you acknowledge that you have read and agree to the [Mozilla community participation guidelines](https://github.com/mdn/mdn-community/blob/main/CODE_OF_CONDUCT.md).
