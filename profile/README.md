@@ -1,5 +1,4 @@
-# 👋 Welcome, Bienvenido, 欢迎, 歡迎, Bienvenue, ようこそ, Receber, Добро пожаловать, 환영합니다, მოგესალმებით, مرحباً, Ласкаво просимо, Bem-vindo, வணக்கம், स्वागत है, Selamat Datang, خوش آمدی, خوش آمدید, Merhaba, സ്വാഗതം, స్వాగతం
-
+# 👋 Welcome, Bienvenue, ようこそ, 환영합니다, Bienvenido, Bem-vindos, Добро пожаловать, 欢迎, 歡迎
 
 ![github-profile](https://user-images.githubusercontent.com/10350960/166113119-629295f6-c282-42c9-9379-af2de5ad4338.png)
 
@@ -16,6 +15,33 @@ The power of MDN Web Docs lies in its vast community of active readers and contr
 ## 🤝 Be part of MDN Web Docs
 
 You can be part of MDN Web Docs, whether it be through ✍️ content contributions, ⚙️ engineering, or ↔️ translation work. The MDN Web Docs project welcomes contributions from everyone who shares our goals and wants to contribute constructively and respectfully within our community. 🧘‍♂️
+
+## 🌎 Our community
+
+We're proud to have a global community of contributors and developers, who also want to say 👋
+
+<table>
+  <tbody>
+    <tr>
+      <td>స్వాగతం</td>
+      <td>സ്വാഗതം</td>
+      <td>Merhaba</td>
+      <td>خوش آمدید</td>
+    </tr>
+    <tr>
+      <td>स्वागत है</td>
+      <td>Selamat Datang</td>
+      <td>வணக்கம்</td>
+      <td>მოგესალმებით</td>
+    </tr>
+    <tr>
+      <td>Ласкаво просимо</td>
+      <td>مرحباً</td>
+      <td>خوش آمدی</td>
+      <td>স্বাগতম</td>
+    </tr>
+  </tbody>
+</table>
 
 ## ✉️ Get in touch
 
