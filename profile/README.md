@@ -45,4 +45,4 @@ We're proud to have a global community of contributors and developers, who also 
 
 ## ✉️ Get in touch
 
-You can communicate with the MDN Web Docs team and community through our [Matrix channel](https://wiki.mozilla.org/Matrix), forums on [Discourse](https://discourse.mozilla.org/c/mdn/236), and discussions on [GitHub](https://github.com/mdn/mdn-community/discussions).
+You can ask questions or get in touch with the MDN Web Docs team and community through any of our [communication channels](https://developer.mozilla.org/en-US/docs/MDN/Community/Communication_channels).
