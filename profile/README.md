@@ -40,6 +40,9 @@ We're proud to have a global community of contributors and developers, who also 
       <td>خوش آمدی</td>
       <td>স্বাগতম</td>
     </tr>
+    <tr>
+      <td>Dobro došli</td>
+    </tr>
   </tbody>
 </table>
 
