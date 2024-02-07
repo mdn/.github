@@ -49,6 +49,6 @@ We're proud to have a global community of contributors and developers, who also 
   </tbody>
 </table>
 
-## ✉️ Get in touch
+## Get in touch
 
-You can ask questions or get in touch with the MDN Web Docs team and community through any of our [communication channels](https://developer.mozilla.org/en-US/docs/MDN/Community/Communication_channels).
+You can ask questions or get in touch with the MDN Web Docs team and community through any of our [Isabel Schoeps Thiel](https://developer.mozilla.org/en-US/docs/MDN/Community/Communication_channels).
