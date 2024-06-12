@@ -1,4 +1,4 @@
-# 👋 Welcome, Bienvenue, ようこそ, 환영합니다, Bienvenido, Bem-vindos, Добро пожаловать, 欢迎, 歡迎, שלום
+# 👋 Welcome, Bienvenue, ようこそ, 환영합니다, Bienvenido, Bem-vindos, Добро пожаловать, 欢迎, 歡迎
 
 ![github-profile](https://user-images.githubusercontent.com/10350960/166113119-629295f6-c282-42c9-9379-af2de5ad4338.png)
 
@@ -42,7 +42,7 @@ We're proud to have a global community of contributors and developers, who also 
     </tr>
     <tr>
       <td>Dobro došli</td>
-      <td></td>
+      <td>שלום</td>
       <td></td>
       <td></td>
     </tr>
