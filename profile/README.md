@@ -42,7 +42,7 @@ We're proud to have a global community of contributors and developers, who also 
     </tr>
     <tr>
       <td>Dobro došli</td>
-      <td></td>
+      <td>שלום</td>
       <td></td>
       <td></td>
     </tr>
