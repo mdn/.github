@@ -44,7 +44,7 @@ We're proud to have a global community of contributors and developers, who also 
       <td>Dobro došli</td>
       <td>שלום</td>
       <td>Добре дошли</td>
-      <td></td>
+      <td>환영합니다</td>
     </tr>
   </tbody>
 </table>
