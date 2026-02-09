@@ -16,6 +16,8 @@ The power of MDN Web Docs lies in its vast community of active readers and contr
 
 You can be part of MDN Web Docs, whether it be through ✍️ content contributions, ⚙️ engineering, or ↔️ translation work. The MDN Web Docs project welcomes contributions from everyone who shares our goals and wants to contribute constructively and respectfully within our community. 🧘‍♂️
 
+MDN Web Docs is a complex project with lots of moving parts. See [MDN Github repositories](https://developer.mozilla.org/en-US/docs/MDN/Community/Our_repositories) to get familiar with the different code repositories.
+
 ## 🌎 Our community
 
 We're proud to have a global community of contributors and developers, who also want to say 👋
